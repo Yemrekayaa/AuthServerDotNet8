@@ -427,7 +427,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.6"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.6",
+          "SharedLibrary": "1.0.0"
         },
         "compile": {
           "bin/placeholder/AuthServer.Core.dll": {}

@@ -16,3 +16,5 @@
 /Users/yemrekayaa/AuthGit/AuthServer.Service/obj/Debug/net8.0/AuthServer.Service.csproj.AssemblyReference.cache
 /Users/yemrekayaa/AuthGit/AuthServer.Service/obj/Debug/net8.0/AuthServ.BF2BB078.Up2Date
 /Users/yemrekayaa/AuthGit/AuthServer.Service/obj/Debug/net8.0/AuthServer.Service.sourcelink.json
+/Users/yemrekayaa/AuthGit/AuthServer.Service/bin/Debug/net8.0/SharedLibrary.dll
+/Users/yemrekayaa/AuthGit/AuthServer.Service/bin/Debug/net8.0/SharedLibrary.pdb
