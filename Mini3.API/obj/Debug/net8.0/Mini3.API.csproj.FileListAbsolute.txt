@@ -33,3 +33,4 @@
 /Users/yemrekayaa/AuthGit/Mini3.API/obj/Debug/net8.0/ref/Mini3.API.dll
 /Users/yemrekayaa/AuthGit/Mini3.API/bin/Debug/net8.0/SharedLibrary.dll
 /Users/yemrekayaa/AuthGit/Mini3.API/bin/Debug/net8.0/SharedLibrary.pdb
+/Users/yemrekayaa/AuthGit/Mini3.API/obj/Debug/net8.0/Mini3.API.sourcelink.json

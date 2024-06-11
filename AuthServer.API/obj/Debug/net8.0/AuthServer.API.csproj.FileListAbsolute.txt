@@ -39,3 +39,13 @@
 /Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/SharedLibrary.pdb
 /Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/AuthServer.Core.pdb
 /Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/AuthServer.Data.pdb
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/obj/Debug/net8.0/AuthServer.API.sourcelink.json

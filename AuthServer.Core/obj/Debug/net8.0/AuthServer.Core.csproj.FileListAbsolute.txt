@@ -9,3 +9,5 @@
 /Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/refint/AuthServer.Core.dll
 /Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/AuthServer.Core.pdb
 /Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/ref/AuthServer.Core.dll
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/AuthServer.Core.csproj.AssemblyReference.cache
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/AuthServer.Core.sourcelink.json
