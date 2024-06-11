@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AuthServer.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AuthServer.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AuthServer.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuthServer.Core/1.0.0": {
+      "type": "project",
+      "path": "../AuthServer.Core/AuthServer.Core.csproj",
+      "msbuildProject": "../AuthServer.Core/AuthServer.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AuthServer.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/yemrekayaa/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/yemrekayaa/AuthGit/AuthServer.Data/AuthServer.Data.csproj",
+      "projectName": "AuthServer.Data",
+      "projectPath": "/Users/yemrekayaa/AuthGit/AuthServer.Data/AuthServer.Data.csproj",
+      "packagesPath": "/Users/yemrekayaa/.nuget/packages/",
+      "outputPath": "/Users/yemrekayaa/AuthGit/AuthServer.Data/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/yemrekayaa/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/yemrekayaa/AuthGit/AuthServer.Core/AuthServer.Core.csproj": {
+              "projectPath": "/Users/yemrekayaa/AuthGit/AuthServer.Core/AuthServer.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

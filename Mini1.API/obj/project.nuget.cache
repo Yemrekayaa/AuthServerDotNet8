@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCPxlbWnQwfrC5YOUVt7RmzbSp8LT/SDjc1CP3Ju3hoA4Ql3pC0aSKznB9tVfAtx++LV2WZ8hzRtP62RK1qgvw==",
+  "success": true,
+  "projectFilePath": "/Users/yemrekayaa/AuthGit/Mini1.API/Mini1.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/yemrekayaa/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

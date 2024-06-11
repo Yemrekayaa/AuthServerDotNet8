@@ -1,0 +1,11 @@
+/Users/yemrekayaa/AuthGit/AuthServer.Core/bin/Debug/net8.0/AuthServer.Core.deps.json
+/Users/yemrekayaa/AuthGit/AuthServer.Core/bin/Debug/net8.0/AuthServer.Core.dll
+/Users/yemrekayaa/AuthGit/AuthServer.Core/bin/Debug/net8.0/AuthServer.Core.pdb
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/AuthServer.Core.AssemblyInfoInputs.cache
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/AuthServer.Core.AssemblyInfo.cs
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/AuthServer.Core.csproj.CoreCompileInputs.cache
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/AuthServer.Core.dll
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/refint/AuthServer.Core.dll
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/AuthServer.Core.pdb
+/Users/yemrekayaa/AuthGit/AuthServer.Core/obj/Debug/net8.0/ref/AuthServer.Core.dll

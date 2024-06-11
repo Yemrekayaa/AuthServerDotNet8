@@ -1,0 +1,11 @@
+/Users/yemrekayaa/AuthGit/SharedLibrary/bin/Debug/net8.0/SharedLibrary.deps.json
+/Users/yemrekayaa/AuthGit/SharedLibrary/bin/Debug/net8.0/SharedLibrary.dll
+/Users/yemrekayaa/AuthGit/SharedLibrary/bin/Debug/net8.0/SharedLibrary.pdb
+/Users/yemrekayaa/AuthGit/SharedLibrary/obj/Debug/net8.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yemrekayaa/AuthGit/SharedLibrary/obj/Debug/net8.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/yemrekayaa/AuthGit/SharedLibrary/obj/Debug/net8.0/SharedLibrary.AssemblyInfo.cs
+/Users/yemrekayaa/AuthGit/SharedLibrary/obj/Debug/net8.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/yemrekayaa/AuthGit/SharedLibrary/obj/Debug/net8.0/SharedLibrary.dll
+/Users/yemrekayaa/AuthGit/SharedLibrary/obj/Debug/net8.0/refint/SharedLibrary.dll
+/Users/yemrekayaa/AuthGit/SharedLibrary/obj/Debug/net8.0/SharedLibrary.pdb
+/Users/yemrekayaa/AuthGit/SharedLibrary/obj/Debug/net8.0/ref/SharedLibrary.dll
