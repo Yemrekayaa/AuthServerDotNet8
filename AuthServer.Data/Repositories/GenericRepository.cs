@@ -16,7 +16,7 @@ namespace AuthServer.Data
 
         public async Task AddAsync(T entity)
         {
-            await _dbSet.AddAsync(entity);
+            await _dbSet.AddAsync(entity); 
         }
 
         public IQueryable<T> GetAll()
