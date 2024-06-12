@@ -9,7 +9,7 @@ namespace AuthServer.Core.Repository
     public interface IGenericRepository<T> where T : class
     {
         Task<T> GetByIdAsync(int id);
-        IQueryable<T> GetAllAsync();
+        IQueryable<T> GetAll();
         IQueryable<T> Where(Expression<Func<T,bool>> expression);
         Task AddAsync(T entity);
         void Remove(T entity);

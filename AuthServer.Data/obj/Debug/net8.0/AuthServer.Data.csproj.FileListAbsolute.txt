@@ -16,3 +16,5 @@
 /Users/yemrekayaa/AuthGit/AuthServer.Data/obj/Debug/net8.0/AuthServer.Data.sourcelink.json
 /Users/yemrekayaa/AuthGit/AuthServer.Data/bin/Debug/net8.0/SharedLibrary.dll
 /Users/yemrekayaa/AuthGit/AuthServer.Data/bin/Debug/net8.0/SharedLibrary.pdb
+/Users/yemrekayaa/AuthGit/AuthServer.Data/bin/Debug/net8.0/AuthServer.Data.runtimeconfig.json
+/Users/yemrekayaa/AuthGit/AuthServer.Data/obj/Debug/net8.0/AuthServer.Data.genruntimeconfig.cache
