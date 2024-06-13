@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bK49JKkC8uwt/YtjnX0MIMmsWFVdt5oDIa4/E10rbHQuy3jlj+FAwhBpWox5uSyIb42mppjG2hMDYWmo4JQB2A==",
+  "dgSpecHash": "bFlAvkzKBobuP1jgIaD94p3jW+3/ZstlkenLjec0WfvRFodctLk0UUMXg7XtGtJvE3F9EAXstHwZA5Z+kUcyjQ==",
   "success": true,
   "projectFilePath": "/Users/yemrekayaa/AuthGit/AuthServer.Data/AuthServer.Data.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.abstractions/7.6.0/microsoft.identitymodel.abstractions.7.6.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.6.0/microsoft.identitymodel.jsonwebtokens.7.6.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.logging/7.6.0/microsoft.identitymodel.logging.7.6.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.tokens/7.6.0/microsoft.identitymodel.tokens.7.6.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
@@ -51,6 +52,7 @@
     "/Users/yemrekayaa/.nuget/packages/system.composition.hosting/6.0.0/system.composition.hosting.6.0.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/system.composition.runtime/6.0.0/system.composition.runtime.6.0.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/system.composition.typedparts/6.0.0/system.composition.typedparts.6.0.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/system.identitymodel.tokens.jwt/7.6.0/system.identitymodel.tokens.jwt.7.6.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/system.reflection.metadata/6.0.1/system.reflection.metadata.6.0.1.nupkg.sha512",

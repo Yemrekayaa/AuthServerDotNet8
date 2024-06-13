@@ -1,3 +1,4 @@
+using AuthServer.Core.Configurations;
 using Microsoft.AspNetCore.Mvc;
 using SharedLibrary.Configurations;
 [assembly: ApiController]
@@ -9,6 +10,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
 builder.Services.Configure<CustomTokenOptions>(builder.Configuration.GetSection("TokenOption"));
+builder.Services.Configure<Client>(builder.Configuration.GetSection("Clients"));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

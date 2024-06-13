@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C2G/dkSUyQmniOr8Lu+CVGU49jJvUP1KnEv7hj7LYijGQRdCNb6TekU3Xwf6bLeTymLANL9KpeLKzBHuTfNUVg==",
+  "dgSpecHash": "e5+06KJYaSRUT0ptSNOveFTYTHaimPvy4xS8wwYUiamxPYdoUd959hjXdK0ZB7CnBFJ/ZGsjkVfqTRdRPD7cDw==",
   "success": true,
   "projectFilePath": "/Users/yemrekayaa/AuthGit/AuthServer.API/AuthServer.API.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.abstractions/7.6.0/microsoft.identitymodel.abstractions.7.6.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.6.0/microsoft.identitymodel.jsonwebtokens.7.6.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.logging/7.6.0/microsoft.identitymodel.logging.7.6.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.tokens/7.6.0/microsoft.identitymodel.tokens.7.6.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
@@ -41,6 +42,7 @@
     "/Users/yemrekayaa/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/system.identitymodel.tokens.jwt/7.6.0/system.identitymodel.tokens.jwt.7.6.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
