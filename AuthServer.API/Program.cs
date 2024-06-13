@@ -6,9 +6,12 @@ using AuthServer.Core.UnitOfWork;
 using AuthServer.Data;
 using AuthServer.Data.UnitOfWorks;
 using AuthServer.Service.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
 using SharedLibrary.Configurations;
 [assembly: ApiController]
 
@@ -38,7 +41,28 @@ builder.Services.AddIdentity<UserApp,IdentityRole>(options => {
 }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
 builder.Services.Configure<CustomTokenOptions>(builder.Configuration.GetSection("TokenOption"));
+var tokenOptions = builder.Configuration.GetSection("TokenOption").Get<CustomTokenOptions>();
 builder.Services.Configure<List<Client>>(builder.Configuration.GetSection("Clients"));
+
+builder.Services.AddAuthentication(options => {
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+
+}).AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, options => {
+    options.TokenValidationParameters = new TokenValidationParameters(){
+        ValidIssuer = tokenOptions.Issuer,
+        ValidAudience = tokenOptions.Audience[0],
+        IssuerSigningKey = SignService.GetSymmetricSecurityKey(tokenOptions.SecurityKey),
+
+        ValidateIssuerSigningKey = true,
+        ValidateAudience = true,
+        ValidateIssuer = true,
+        ValidateLifetime = true,
+        ClockSkew = TimeSpan.Zero,
+    };
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
