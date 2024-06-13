@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XVefanDqSazfzCtHdUV3u4fLWybZRB8Hxeh2NkPA0xukpnx5KikQNXDCU4XIgnxWXl+Oc6x8gIFv0xVIXRmrag==",
+  "dgSpecHash": "HjA7APT3viU68VjVjbk+RwGuShRf4yEj43RVBcgAiWBYaI18bAYTn1cGRG/rng68De8AMlFynO5SEVMw/9XL+g==",
   "success": true,
   "projectFilePath": "/Users/yemrekayaa/AuthGit/AuthServer.Core/AuthServer.Core.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,10 @@
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
-    "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.abstractions/7.6.0/microsoft.identitymodel.abstractions.7.6.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.logging/7.6.0/microsoft.identitymodel.logging.7.6.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.tokens/7.6.0/microsoft.identitymodel.tokens.7.6.0.nupkg.sha512"
   ],
   "logs": []
 }

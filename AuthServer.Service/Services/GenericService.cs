@@ -71,7 +71,7 @@ namespace AuthServer.Service.Services
         public ResponseDto<IEnumerable<TDto>> Where(Expression<Func<T, bool>> expression)
         {
             var entity = _repository.Where(expression);
-            var entityDto = ObjectMapper.Mapper.Map<List<TDto>>(entity);
+            var entityDto = ObjectMapper.Mapper.Map<List<TDto>>(entity.ToList());
             return ResponseDto<IEnumerable<TDto>>.Success(entityDto,200);
         }
     }

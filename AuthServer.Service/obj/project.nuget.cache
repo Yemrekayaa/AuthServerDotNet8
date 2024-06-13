@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "i8iq1Ffe1tlLY2xtKWezZ76kavwZRoouBlQiSKjpt9jG1ArjDg3dLEYp767I1nLuN7XEyONt27WWRXW+Ow0F6w==",
+  "dgSpecHash": "zWGke98jNeAdpNE1Eq5vHdRJAa1yb5VJT5+4MwJbQNXwyL/C0w1Ot4gCIRTFQHurifeoEKW1rA3Df5L5uKzv7w==",
   "success": true,
   "projectFilePath": "/Users/yemrekayaa/AuthGit/AuthServer.Service/AuthServer.Service.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,9 @@
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.abstractions/7.6.0/microsoft.identitymodel.abstractions.7.6.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.logging/7.6.0/microsoft.identitymodel.logging.7.6.0.nupkg.sha512",
+    "/Users/yemrekayaa/.nuget/packages/microsoft.identitymodel.tokens/7.6.0/microsoft.identitymodel.tokens.7.6.0.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
     "/Users/yemrekayaa/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
