@@ -4,6 +4,6 @@ namespace AuthServer.Core.DTOs
     {
         public string ClientId { get; set; }
 
-        public string ClientString { get; set; }
+        public string ClientSecret { get; set; }
     }
 }
