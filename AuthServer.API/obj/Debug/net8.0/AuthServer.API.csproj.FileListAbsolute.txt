@@ -75,3 +75,4 @@
 /Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/yemrekayaa/AuthGit/AuthServer.API/bin/Debug/net8.0/AutoMapper.dll
